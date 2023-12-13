@@ -1,4 +1,4 @@
-# MessangerDB
+# Messe﻿ngerDB
 
 In this project I learn how to connect to data base and make some requests from java.
 
